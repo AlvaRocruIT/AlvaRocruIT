@@ -6,10 +6,9 @@
 - 💞️ I’m looking to collaborate on nothing yet. Want to help me improve my roadmap? I´m always available to take advice from bigger pals.
 - <p>
   How to reach me: Send me an 
-  <a
-    href="https://www.mozilla.org/es-ES/"
+  < href="https://www.mozilla.org/es-ES/"
     title="e-mail"
-    >!
+    >
   >.
 </p>
 
