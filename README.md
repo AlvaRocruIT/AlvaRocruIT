@@ -1,4 +1,4 @@
--
+
 ![Hubgit](https://github.com/user-attachments/assets/acded6b3-2e13-4526-af8b-317bee8a47a1) 
 - 👋 Hello world! This is @AlvaRockruIT
 - 👀 I’m interested in navigating the IT ecosystem.
@@ -7,7 +7,7 @@
 - 📫 How to reach me: alvargash90@gmail.com | linkedin.com/avargahsh90 
 - 😄 Pronouns:  What the... am I supposed to write here?
 - ⚡ Fun fact: I don't drink coffee I take mate🧉, my dear.
-- 
+  
 
 <!---
 AlvaRocruIT/AlvaRocruIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
