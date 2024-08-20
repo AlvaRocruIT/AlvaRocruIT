@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing yet. If you want to help me improve my roadmap, I´m always available to take some advice.
 - 📫 How to reach me: alvargash90@gmail.com | linkedin.com/avargahsh90 
 - 😄 Pronouns:  What the... am I supposed to write here?
-- ⚡ Fun fact: I'm counting how many hours I take to become a pro IT recruiter.
+- ⚡ Fun fact: I don't drink coffee I take mate🧉, my dear.
 - 
 
 <!---
