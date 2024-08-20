@@ -7,7 +7,7 @@
 - <p>
   📫 How to reach me: Send me an
   <a
-    href="alvargash90@gmail.com"
+    href="https://mail.google.com/mail/u/0/#inbox?compose=new"
     title="e-mail"
     >e-mail!</a
   >.
