@@ -5,12 +5,11 @@
 - 🌱 I’m currently learning about IT fundamentals; then IT roles; then Programming Languages; then Frameworks and Libraries, and diving deeper to offer a great experience in my recruiting processes.
 - 💞️ I’m looking to collaborate on nothing yet. Want to help me improve my roadmap? I´m always available to take advice from bigger pals.
 - <p>
-  Crea un enlace a
+  📫 How to reach me: Send me an
   <a
-    href="https://www.mozilla.org/es-ES/"
-    title="El mejor lugar para encontrar más información acerca de la misión de Mozilla
-          y cómo contribuir"
-    >la página de inicio de Mozilla</a
+    href="alvargash90@gmail.com"
+    title="e-mail"
+    >!</a
   >.
 </p>
 
