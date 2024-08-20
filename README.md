@@ -1,4 +1,4 @@
-
+<FONT COLOR=BLUE>
 ![Hubgit](https://github.com/user-attachments/assets/acded6b3-2e13-4526-af8b-317bee8a47a1) 
 - 👋 Hello world! This is <b>@AlvaRocruIT</b>
 - 👀 I’m interested in navigating the IT ecosystem.
@@ -17,7 +17,7 @@
 - 😄 Pronouns:  What am I supposed to write here?
 - ⚡ Fun fact: I don't drink coffee I take mate🧉, my dear.
 - 🧐 Serious fact: Still have some trouble telling the left side from the right side.👉🏻👈🏻
-  
+  </font>
 
 <!---
 AlvaRocruIT/AlvaRocruIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
