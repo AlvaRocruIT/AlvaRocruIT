@@ -1,5 +1,6 @@
-<FONT COLOR=BLUE>
+
 ![Hubgit](https://github.com/user-attachments/assets/acded6b3-2e13-4526-af8b-317bee8a47a1) 
+<FONT COLOR=BLUE>
 - 👋 Hello world! This is <b>@AlvaRocruIT</b>
 - 👀 I’m interested in navigating the IT ecosystem.
 - 🌱 I’m currently learning about IT fundamentals; then IT roles; then Programming Languages; then Frameworks and Libraries, and diving deeper to offer a great experience in my recruiting processes.
