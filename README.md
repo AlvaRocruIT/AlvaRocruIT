@@ -5,13 +5,14 @@
 - 🌱 I’m currently learning about IT fundamentals; then IT roles; then Programming Languages; then Frameworks and Libraries, and diving deeper to offer a great experience in my recruiting processes.
 - 💞️ I’m looking to collaborate on nothing yet. Want to help me improve my roadmap? I´m always available to take advice from bigger pals.
 - <p>
-  📫 How to reach me:
+  How to reach me: Send me an 
   <a
     href="https://www.mozilla.org/es-ES/"
     title="e-mail"
     >!
   >.
-</p> email
+</p>
+
 - 😄 Pronouns:  What am I supposed to write here?
 - ⚡ Fun fact: I don't drink coffee I take mate🧉, my dear.
 - 🧐 Serious fact: Still have some trouble telling the left side from the right side.👉🏻👈🏻
