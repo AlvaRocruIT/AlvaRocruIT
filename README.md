@@ -16,8 +16,8 @@
 </p>
 
 
-- 😄 Pronouns:  What am I supposed to write here?
-- ⚡ Fun fact: Still have some trouble telling the left side from the right side.👉🏻👈🏻
+- ⚡ Pronouns:  What am I supposed to write here?
+- 😄 Fun fact: Still have some trouble telling the left side from the right side.👉🏻👈🏻
 - 🧐 Serious fact: I'm also a Rafting Guide 🌊🌊   
 
 <!---
