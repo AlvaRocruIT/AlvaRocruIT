@@ -2,9 +2,10 @@
 ![Hubgit](https://github.com/user-attachments/assets/acded6b3-2e13-4526-af8b-317bee8a47a1) 
 <FONT COLOR=BLUE>
 - 👋 Hello world! This is <b>@AlvaRocruIT</b></font>
-- 👀 I’m designing a solution for selecting talent.
-- 🌱 I’m currently learning about IT fundamentals; then IT roles; then Programming Languages; then Frameworks and Libraries, and diving deeper to offer a great experience in my recruiting processes.
-- 💞️ I’m looking to collaborate on nothing yet. Want to help me improve my roadmap? I´m always available to take advice from bigger pals.
+- 🌱 I’m working on design a solution for selecting talent.
+- 🚀 This solution is a chat-screening agent, a kind of chatbot where the candidate ask you anything about the company while you are ranking the most connective conversations.
+- 💞️ I’m looking to collaborate on companies that finds value on this project.
+- 🫵🏻 If you Want to help me improve this roadmap, I´m always available to take advice from bigger pals.
 - <p>
   📫 How to reach me: Send me an
   <a
