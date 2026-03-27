@@ -5,7 +5,7 @@
 - 🌱 I’m working on design a B2B solution for enhancing talent from selection to the top of his organizational path.
 - 🚀 This solution is a chat-screening agent, a kind of chatbot where the candidate ask you anything about the company while you are ranking the most connective conversations.
 - 💞️ I’m looking to collaborate on companies that finds value on this project.
-- 🫵🏻 If you Want to help me improve this roadmap, I´m always available to take advice from bigger pals.
+- 🫵🏻 If you Want to help me improve this roadmap, I´m always available to take advice from amazing people.
 - 👣 Furthermore, this is the first step on a huge path of guiding people within their organizational lifecycles. 
 - <p>
   📫 How to reach me: Send me an
